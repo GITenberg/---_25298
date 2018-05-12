@@ -1,0 +1,29 @@
+_repo: '---_25298'
+_version: 0.1.0
+alternative_title: Yu Li Zi
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Liu, Ji
+    alias: 劉基
+    birthdate: 1311
+    deathdate: 1375
+    gutenberg_agent_id: '31228'
+    url: http://www.gutenberg.org/2009/agents/31228
+description: ''
+gutenberg_issued: '2008-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25298'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy -- Early works to 1800'
+- !lcc 'PL'
+- !lcsh 'China -- Anecdotes'
+title: 郁離子
+url: http://www.gutenberg.org/ebooks/25298
